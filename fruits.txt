@@ -1,4 +1,8 @@
 apples
 berries
 cherries
+<<<<<<< HEAD
 pears
+=======
+oranges
+>>>>>>> master

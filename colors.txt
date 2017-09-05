@@ -2,4 +2,8 @@ blue
 red
 yellow
 white
+<<<<<<< HEAD
 black
+=======
+green
+>>>>>>> master
